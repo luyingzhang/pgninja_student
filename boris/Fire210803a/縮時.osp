@@ -1,0 +1,9276 @@
+{
+ "files": [
+  {
+   "height": 720,
+   "has_audio": true,
+   "metadata": {
+    "ENCODER": "Lavf58.45.100",
+    "DURATION": "00:10:23.467000000",
+    "title": "simple_aac_recording"
+   },
+   "width": 1280,
+   "video_length": "37380",
+   "id": "E7TU2QCMTV",
+   "audio_stream_index": 1,
+   "path": "./2021-08-03 18-27-25.mkv",
+   "has_video": true,
+   "image": "thumbnail/E7TU2QCMTV.png",
+   "audio_timebase": {
+    "num": 1,
+    "den": 1000
+   },
+   "pixel_format": 0,
+   "video_timebase": {
+    "num": 1,
+    "den": 1000
+   },
+   "channels": 2,
+   "channel_layout": 3,
+   "file_size": "32250440",
+   "fps": {
+    "num": 60,
+    "den": 1
+   },
+   "duration": 623.0,
+   "pixel_ratio": {
+    "num": 1,
+    "den": 1
+   },
+   "acodec": "aac",
+   "interlaced_frame": false,
+   "media_type": "video",
+   "type": "FFmpegReader",
+   "sample_rate": 48000,
+   "audio_bit_rate": 0,
+   "has_single_image": false,
+   "vcodec": "h264",
+   "display_ratio": {
+    "num": 16,
+    "den": 9
+   },
+   "video_bit_rate": 51723,
+   "video_stream_index": 0,
+   "top_field_first": true
+  }
+ ],
+ "height": 720,
+ "import_path": "",
+ "width": 1280,
+ "history": {
+  "redo": [],
+  "undo": [
+   {
+    "key": [
+     "files"
+    ],
+    "value": {
+     "height": 720,
+     "has_audio": true,
+     "metadata": {
+      "ENCODER": "Lavf58.45.100",
+      "DURATION": "00:10:23.467000000",
+      "title": "simple_aac_recording"
+     },
+     "width": 1280,
+     "video_length": "37380",
+     "id": "E7TU2QCMTV",
+     "audio_stream_index": 1,
+     "path": "./2021-08-03 18-27-25.mkv",
+     "has_video": true,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "audio_timebase": {
+      "num": 1,
+      "den": 1000
+     },
+     "pixel_format": 0,
+     "video_timebase": {
+      "num": 1,
+      "den": 1000
+     },
+     "channels": 2,
+     "channel_layout": 3,
+     "file_size": "32250440",
+     "fps": {
+      "num": 60,
+      "den": 1
+     },
+     "duration": 623.0,
+     "pixel_ratio": {
+      "num": 1,
+      "den": 1
+     },
+     "acodec": "aac",
+     "interlaced_frame": false,
+     "display_ratio": {
+      "num": 16,
+      "den": 9
+     },
+     "media_type": "video",
+     "type": "FFmpegReader",
+     "sample_rate": 48000,
+     "audio_bit_rate": 0,
+     "has_single_image": false,
+     "vcodec": "h264",
+     "video_bit_rate": 51723,
+     "video_stream_index": 0,
+     "top_field_first": true
+    },
+    "type": "insert",
+    "partial": false,
+    "old_values": []
+   },
+   {
+    "key": [
+     "clips"
+    ],
+    "value": {
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "type": "FFmpegReader",
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      },
+      "top_field_first": true,
+      "sample_rate": 48000,
+      "audio_bit_rate": 0,
+      "has_single_image": false,
+      "vcodec": "h264",
+      "video_bit_rate": 51723,
+      "video_stream_index": 0
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "7X118MH712",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "anchor": 0,
+     "position": 0,
+     "gravity": 4,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "end": 1.5,
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "start": 0,
+     "mixing": 0,
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    },
+    "type": "insert",
+    "partial": false,
+    "old_values": []
+   },
+   {
+    "key": [
+     "duration"
+    ],
+    "value": 640.5,
+    "type": "update",
+    "partial": false,
+    "old_values": 300
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "7X118MH712"
+     }
+    ],
+    "value": {
+     "end": 623,
+     "start": 0,
+     "layer": 5000000,
+     "id": "7X118MH712",
+     "position": 18.9
+    },
+    "type": "update",
+    "partial": false,
+    "old_values": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623.0,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "7X118MH712",
+     "waveform": false,
+     "position": 7.5,
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "anchor": 0,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      },
+      "video_bit_rate": 51723,
+      "vcodec": "h264"
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "start": 0.0,
+     "mixing": 0,
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "key": [
+     "duration"
+    ],
+    "value": 651.9,
+    "type": "update",
+    "partial": false,
+    "old_values": 640.5
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "7X118MH712"
+     }
+    ],
+    "value": {
+     "end": 623,
+     "start": 0,
+     "layer": 5000000,
+     "id": "7X118MH712",
+     "position": 0
+    },
+    "type": "update",
+    "partial": false,
+    "old_values": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      },
+      "video_bit_rate": 51723,
+      "vcodec": "h264"
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "7X118MH712",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "anchor": 0,
+     "position": 18.9,
+     "gravity": 4,
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "start": 0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     },
+     "mixing": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    }
+   },
+   {
+    "key": [
+     "clips"
+    ],
+    "value": {
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "effects": [],
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "start": 1.5833333333333333,
+     "file_id": "E7TU2QCMTV",
+     "duration": 32.0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "type": "FFmpegReader",
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "top_field_first": true,
+      "sample_rate": 48000,
+      "audio_bit_rate": 0,
+      "has_single_image": false,
+      "vcodec": "h264",
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      },
+      "video_bit_rate": 51723,
+      "video_stream_index": 0
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 39.0,
+         "Y": 39.0
+        },
+        "interpolation": 1
+       },
+       {
+        "co": {
+         "X": 971.0,
+         "Y": 14951.0
+        },
+        "interpolation": 1
+       }
+      ]
+     },
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 40.458333333333336,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "position": 0,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "original_data": {
+      "end": 623,
+      "video_length": "37380",
+      "duration": 623.0
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "mixing": 0,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    },
+    "type": "insert",
+    "partial": false,
+    "old_values": [
+     {
+      "scale_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "has_audio": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "scale_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_height": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "reader": {
+       "height": 720,
+       "has_audio": true,
+       "metadata": {
+        "ENCODER": "Lavf58.45.100",
+        "DURATION": "00:10:23.467000000",
+        "title": "simple_aac_recording"
+       },
+       "width": 1280,
+       "video_length": "37380",
+       "top_field_first": true,
+       "audio_stream_index": 1,
+       "path": "./2021-08-03 18-27-25.mkv",
+       "has_video": true,
+       "audio_timebase": {
+        "num": 1,
+        "den": 1000
+       },
+       "pixel_format": 0,
+       "video_timebase": {
+        "num": 1,
+        "den": 1000
+       },
+       "channels": 2,
+       "video_stream_index": 0,
+       "channel_layout": 3,
+       "file_size": "32250440",
+       "fps": {
+        "num": 60,
+        "den": 1
+       },
+       "duration": 623.0,
+       "pixel_ratio": {
+        "num": 1,
+        "den": 1
+       },
+       "acodec": "aac",
+       "interlaced_frame": false,
+       "type": "FFmpegReader",
+       "has_single_image": false,
+       "audio_bit_rate": 0,
+       "sample_rate": 48000,
+       "display_ratio": {
+        "num": 16,
+        "den": 9
+       },
+       "video_bit_rate": 51723,
+       "vcodec": "h264"
+      },
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "title": "2021-08-03 18-27-25.mkv",
+      "effects": [],
+      "id": "7X118MH712",
+      "waveform": false,
+      "has_video": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "location_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c1_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c2_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "layer": 5000000,
+      "anchor": 0,
+      "position": 0,
+      "gravity": 4,
+      "perspective_c2_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "channel_filter": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "duration": 623.0,
+      "start": 0,
+      "channel_mapping": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "display": 0,
+      "volume": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "file_id": "E7TU2QCMTV",
+      "shear_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "shear_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "location_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_width": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "end": 623,
+      "crop_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c1_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "rotation": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "scale": 1,
+      "wave_color": {
+       "alpha": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "interpolation": 0,
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          }
+         }
+        ]
+       },
+       "red": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 0.0
+          },
+          "interpolation": 0,
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          }
+         }
+        ]
+       },
+       "green": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 123.0
+          },
+          "interpolation": 0,
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          }
+         }
+        ]
+       },
+       "blue": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "interpolation": 0,
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          }
+         }
+        ]
+       }
+      },
+      "mixing": 0,
+      "time": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      }
+     }
+    ]
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "OTAS7VA6F6"
+     }
+    ],
+    "value": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "anchor": 0,
+     "position": 1.5416666666666667,
+     "gravity": 4,
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "start": 1.5833333333333333,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     },
+     "mixing": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    },
+    "type": "update",
+    "partial": false,
+    "old_values": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "vcodec": "h264",
+      "video_bit_rate": 51723,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      }
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "anchor": 0,
+     "position": 1.5416666666666667,
+     "gravity": 4,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "start": 1.5833333333333333,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     },
+     "mixing": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "7X118MH712"
+     }
+    ],
+    "value": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 1.5,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "7X118MH712",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "anchor": 0,
+     "position": 0,
+     "gravity": 4,
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "start": 0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     },
+     "mixing": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    },
+    "type": "update",
+    "partial": false,
+    "old_values": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      },
+      "video_bit_rate": 51723,
+      "vcodec": "h264"
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "7X118MH712",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "anchor": 0,
+     "position": 0,
+     "gravity": 4,
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "start": 0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     },
+     "mixing": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "7X118MH712"
+     }
+    ],
+    "value": null,
+    "type": "delete",
+    "partial": false,
+    "old_values": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      },
+      "video_bit_rate": 51723,
+      "vcodec": "h264"
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "7X118MH712",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "anchor": 0,
+     "position": 0,
+     "gravity": 4,
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "start": 0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 1.5,
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     },
+     "mixing": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "OTAS7VA6F6"
+     }
+    ],
+    "value": {
+     "end": 623,
+     "start": 1.5833333333333333,
+     "layer": 5000000,
+     "id": "OTAS7VA6F6",
+     "position": 0
+    },
+    "type": "update",
+    "partial": false,
+    "old_values": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "start": 1.5833333333333333,
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "vcodec": "h264",
+      "video_bit_rate": 51723,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      }
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "OTAS7VA6F6",
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "waveform": false,
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "position": 1.5416666666666667,
+     "gravity": 4,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "duration": 623.0,
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     },
+     "mixing": 0,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     }
+    }
+   },
+   {
+    "key": [
+     "clips"
+    ],
+    "value": {
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "effects": [],
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "start": 1.5833333333333333,
+     "file_id": "E7TU2QCMTV",
+     "duration": 623.0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "type": "FFmpegReader",
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      },
+      "top_field_first": true,
+      "sample_rate": 48000,
+      "audio_bit_rate": 0,
+      "has_single_image": false,
+      "vcodec": "h264",
+      "video_bit_rate": 51723,
+      "video_stream_index": 0
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv (所有聲道)",
+     "id": "UDAZK4TQSM",
+     "waveform": false,
+     "position": 0,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 3,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 4000000,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "mixing": 0,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    },
+    "type": "insert",
+    "partial": false,
+    "old_values": [
+     {
+      "has_audio": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "gravity": 4,
+      "effects": [],
+      "location_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "has_video": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "channel_filter": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c2_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "anchor": 0,
+      "start": 1.5833333333333333,
+      "file_id": "E7TU2QCMTV",
+      "duration": 623.0,
+      "scale_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c4_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "shear_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_width": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "end": 623,
+      "perspective_c4_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "time": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "channel_mapping": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_height": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "reader": {
+       "height": 720,
+       "has_audio": true,
+       "metadata": {
+        "ENCODER": "Lavf58.45.100",
+        "DURATION": "00:10:23.467000000",
+        "title": "simple_aac_recording"
+       },
+       "width": 1280,
+       "video_length": "37380",
+       "top_field_first": true,
+       "audio_stream_index": 1,
+       "path": "./2021-08-03 18-27-25.mkv",
+       "has_video": true,
+       "audio_timebase": {
+        "num": 1,
+        "den": 1000
+       },
+       "pixel_format": 0,
+       "video_timebase": {
+        "num": 1,
+        "den": 1000
+       },
+       "channels": 2,
+       "video_stream_index": 0,
+       "channel_layout": 3,
+       "file_size": "32250440",
+       "fps": {
+        "num": 60,
+        "den": 1
+       },
+       "duration": 623.0,
+       "pixel_ratio": {
+        "num": 1,
+        "den": 1
+       },
+       "acodec": "aac",
+       "interlaced_frame": false,
+       "type": "FFmpegReader",
+       "has_single_image": false,
+       "audio_bit_rate": 0,
+       "sample_rate": 48000,
+       "vcodec": "h264",
+       "video_bit_rate": 51723,
+       "display_ratio": {
+        "num": 16,
+        "den": 9
+       }
+      },
+      "alpha": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "title": "2021-08-03 18-27-25.mkv",
+      "id": "OTAS7VA6F6",
+      "waveform": false,
+      "position": 0,
+      "image": "thumbnail/E7TU2QCMTV.png",
+      "perspective_c1_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c2_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "scale_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c3_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "rotation": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "scale": 1,
+      "volume": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "shear_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "layer": 5000000,
+      "location_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "crop_x": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "perspective_c1_y": {
+       "Points": [
+        {
+         "co": {
+          "X": 1.0,
+          "Y": -1.0
+         },
+         "interpolation": 2
+        }
+       ]
+      },
+      "display": 0,
+      "mixing": 0,
+      "wave_color": {
+       "alpha": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "interpolation": 0,
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          }
+         }
+        ]
+       },
+       "blue": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 255.0
+          },
+          "interpolation": 0,
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          }
+         }
+        ]
+       },
+       "green": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 123.0
+          },
+          "interpolation": 0,
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          }
+         }
+        ]
+       },
+       "red": {
+        "Points": [
+         {
+          "handle_right": {
+           "X": 0.5,
+           "Y": 0.0
+          },
+          "handle_type": 0,
+          "co": {
+           "X": 1.0,
+           "Y": 0.0
+          },
+          "interpolation": 0,
+          "handle_left": {
+           "X": 0.5,
+           "Y": 1.0
+          }
+         }
+        ]
+       }
+      }
+     }
+    ]
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "OTAS7VA6F6"
+     }
+    ],
+    "value": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "position": 0,
+     "gravity": 4,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "start": 1.5833333333333333,
+     "mixing": 0,
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    },
+    "type": "update",
+    "partial": false,
+    "old_values": {
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "effects": [],
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "start": 1.5833333333333333,
+     "file_id": "E7TU2QCMTV",
+     "duration": 623.0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "vcodec": "h264",
+      "video_bit_rate": 51723,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      }
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "position": 0,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "mixing": 0,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "OTAS7VA6F6"
+     }
+    ],
+    "value": {
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "effects": [],
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "position": 0,
+     "gravity": 4,
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "duration": 623.0,
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "file_id": "E7TU2QCMTV",
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "start": 1.5833333333333333,
+     "mixing": 0,
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    },
+    "type": "update",
+    "partial": false,
+    "old_values": {
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "effects": [],
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "start": 1.5833333333333333,
+     "file_id": "E7TU2QCMTV",
+     "duration": 623.0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "vcodec": "h264",
+      "video_bit_rate": 51723,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      }
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "position": 0,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "mixing": 0,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "UDAZK4TQSM"
+     }
+    ],
+    "value": null,
+    "type": "delete",
+    "partial": false,
+    "old_values": {
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "effects": [],
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "start": 1.5833333333333333,
+     "file_id": "E7TU2QCMTV",
+     "duration": 623.0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      },
+      "video_bit_rate": 51723,
+      "vcodec": "h264"
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv (所有聲道)",
+     "id": "UDAZK4TQSM",
+     "waveform": false,
+     "position": 0,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 3,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 4000000,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "mixing": 0,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "key": [
+     "clips",
+     {
+      "id": "OTAS7VA6F6"
+     }
+    ],
+    "value": {
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "effects": [],
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "start": 1.5833333333333333,
+     "file_id": "E7TU2QCMTV",
+     "duration": 32.0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 39.0,
+         "Y": 39.0
+        },
+        "interpolation": 1
+       },
+       {
+        "co": {
+         "X": 971.0,
+         "Y": 14951.0
+        },
+        "interpolation": 1
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 40.458333333333336,
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "position": 0,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "original_data": {
+      "end": 623,
+      "video_length": "37380",
+      "duration": 623.0
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "mixing": 0,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    },
+    "type": "update",
+    "partial": false,
+    "old_values": {
+     "has_audio": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "gravity": 4,
+     "effects": [],
+     "location_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "has_video": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_filter": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "anchor": 0,
+     "start": 1.5833333333333333,
+     "file_id": "E7TU2QCMTV",
+     "duration": 623.0,
+     "scale_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c4_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_width": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "end": 623,
+     "perspective_c4_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "time": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "channel_mapping": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_height": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "reader": {
+      "height": 720,
+      "has_audio": true,
+      "metadata": {
+       "ENCODER": "Lavf58.45.100",
+       "DURATION": "00:10:23.467000000",
+       "title": "simple_aac_recording"
+      },
+      "width": 1280,
+      "video_length": "37380",
+      "top_field_first": true,
+      "audio_stream_index": 1,
+      "path": "./2021-08-03 18-27-25.mkv",
+      "has_video": true,
+      "audio_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "pixel_format": 0,
+      "video_timebase": {
+       "num": 1,
+       "den": 1000
+      },
+      "channels": 2,
+      "video_stream_index": 0,
+      "channel_layout": 3,
+      "file_size": "32250440",
+      "fps": {
+       "num": 60,
+       "den": 1
+      },
+      "duration": 623.0,
+      "pixel_ratio": {
+       "num": 1,
+       "den": 1
+      },
+      "acodec": "aac",
+      "interlaced_frame": false,
+      "type": "FFmpegReader",
+      "has_single_image": false,
+      "audio_bit_rate": 0,
+      "sample_rate": 48000,
+      "vcodec": "h264",
+      "video_bit_rate": 51723,
+      "display_ratio": {
+       "num": 16,
+       "den": 9
+      }
+     },
+     "alpha": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "title": "2021-08-03 18-27-25.mkv",
+     "id": "OTAS7VA6F6",
+     "waveform": false,
+     "position": 0,
+     "image": "thumbnail/E7TU2QCMTV.png",
+     "perspective_c1_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c2_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c3_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "rotation": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "scale": 1,
+     "volume": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "shear_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "layer": 5000000,
+     "location_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "crop_x": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": 0.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "perspective_c1_y": {
+      "Points": [
+       {
+        "co": {
+         "X": 1.0,
+         "Y": -1.0
+        },
+        "interpolation": 2
+       }
+      ]
+     },
+     "display": 0,
+     "mixing": 0,
+     "wave_color": {
+      "alpha": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "red": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 0.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "green": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 123.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      },
+      "blue": {
+       "Points": [
+        {
+         "handle_right": {
+          "X": 0.5,
+          "Y": 0.0
+         },
+         "handle_type": 0,
+         "co": {
+          "X": 1.0,
+          "Y": 255.0
+         },
+         "interpolation": 0,
+         "handle_left": {
+          "X": 0.5,
+          "Y": 1.0
+         }
+        }
+       ]
+      }
+     }
+    }
+   }
+  ]
+ },
+ "effects": [],
+ "id": "PD8QPXK96B",
+ "settings": {},
+ "clips": [
+  {
+   "has_audio": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "gravity": 4,
+   "effects": [],
+   "mixing": 0,
+   "has_video": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "channel_filter": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c2_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "start": 1.5833333333333333,
+   "duration": 32.0,
+   "perspective_c4_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c4_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "crop_height": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "reader": {
+    "height": 720,
+    "has_audio": true,
+    "metadata": {
+     "ENCODER": "Lavf58.45.100",
+     "DURATION": "00:10:23.467000000",
+     "title": "simple_aac_recording"
+    },
+    "width": 1280,
+    "video_length": "37380",
+    "type": "FFmpegReader",
+    "audio_stream_index": 1,
+    "path": "./2021-08-03 18-27-25.mkv",
+    "has_video": true,
+    "audio_timebase": {
+     "num": 1,
+     "den": 1000
+    },
+    "pixel_format": 0,
+    "video_timebase": {
+     "num": 1,
+     "den": 1000
+    },
+    "channels": 2,
+    "channel_layout": 3,
+    "file_size": "32250440",
+    "fps": {
+     "num": 60,
+     "den": 1
+    },
+    "duration": 623.0,
+    "pixel_ratio": {
+     "num": 1,
+     "den": 1
+    },
+    "acodec": "aac",
+    "interlaced_frame": false,
+    "display_ratio": {
+     "num": 16,
+     "den": 9
+    },
+    "top_field_first": true,
+    "sample_rate": 48000,
+    "audio_bit_rate": 0,
+    "has_single_image": false,
+    "vcodec": "h264",
+    "video_bit_rate": 51723,
+    "video_stream_index": 0
+   },
+   "title": "2021-08-03 18-27-25.mkv",
+   "waveform": false,
+   "perspective_c1_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c2_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "rotation": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "scale": 1,
+   "location_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "display": 0,
+   "layer": 5000000,
+   "perspective_c3_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "location_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "anchor": 0,
+   "file_id": "E7TU2QCMTV",
+   "channel_mapping": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "shear_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "crop_width": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "time": {
+    "Points": [
+     {
+      "co": {
+       "X": 39.0,
+       "Y": 39.0
+      },
+      "interpolation": 1
+     },
+     {
+      "co": {
+       "X": 971.0,
+       "Y": 14951.0
+      },
+      "interpolation": 1
+     }
+    ]
+   },
+   "scale_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "end": 40.458333333333336,
+   "alpha": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "id": "OTAS7VA6F6",
+   "position": 0,
+   "image": "thumbnail/E7TU2QCMTV.png",
+   "crop_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "scale_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c3_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "volume": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "original_data": {
+    "end": 623,
+    "video_length": "37380",
+    "duration": 623.0
+   },
+   "shear_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "crop_x": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": 0.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "perspective_c1_y": {
+    "Points": [
+     {
+      "co": {
+       "X": 1.0,
+       "Y": -1.0
+      },
+      "interpolation": 2
+     }
+    ]
+   },
+   "wave_color": {
+    "alpha": {
+     "Points": [
+      {
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "co": {
+        "X": 1.0,
+        "Y": 255.0
+       },
+       "interpolation": 0,
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       }
+      }
+     ]
+    },
+    "red": {
+     "Points": [
+      {
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "co": {
+        "X": 1.0,
+        "Y": 0.0
+       },
+       "interpolation": 0,
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       }
+      }
+     ]
+    },
+    "green": {
+     "Points": [
+      {
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "co": {
+        "X": 1.0,
+        "Y": 123.0
+       },
+       "interpolation": 0,
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       }
+      }
+     ]
+    },
+    "blue": {
+     "Points": [
+      {
+       "handle_right": {
+        "X": 0.5,
+        "Y": 0.0
+       },
+       "handle_type": 0,
+       "co": {
+        "X": 1.0,
+        "Y": 255.0
+       },
+       "interpolation": 0,
+       "handle_left": {
+        "X": 0.5,
+        "Y": 1.0
+       }
+      }
+     ]
+    }
+   }
+  }
+ ],
+ "channels": 2,
+ "channel_layout": 3,
+ "playhead_position": 0,
+ "fps": {
+  "num": 24,
+  "den": 1
+ },
+ "profile": "HDV 720 24p",
+ "markers": [],
+ "pixel_ratio": {
+  "num": 1,
+  "den": 1
+ },
+ "export_path": "/home/sariah/Resources/Images/Boris/piskel/Fire210803a",
+ "layers": [
+  {
+   "y": 0,
+   "label": "",
+   "id": "L1",
+   "number": 1000000,
+   "lock": false
+  },
+  {
+   "y": 0,
+   "label": "",
+   "id": "L2",
+   "number": 2000000,
+   "lock": false
+  },
+  {
+   "y": 0,
+   "label": "",
+   "id": "L3",
+   "number": 3000000,
+   "lock": false
+  },
+  {
+   "y": 0,
+   "label": "",
+   "id": "L4",
+   "number": 4000000,
+   "lock": false
+  },
+  {
+   "y": 0,
+   "label": "",
+   "id": "L5",
+   "number": 5000000,
+   "lock": false
+  }
+ ],
+ "progress": [],
+ "tick_pixels": 100,
+ "scale": 15,
+ "sample_rate": 44100,
+ "display_ratio": {
+  "num": 16,
+  "den": 9
+ },
+ "version": {
+  "libopenshot": "0.2.5",
+  "openshot-qt": "2.5.1"
+ },
+ "duration": 651.9
+}
